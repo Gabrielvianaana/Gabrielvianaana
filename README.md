@@ -38,13 +38,6 @@ Construo soluções com IA, automação e desenvolvimento web. Foco em projetos 
 
 ---
 
-## 📈 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielvianaana&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvianaana&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-viana-de-souza-392531330)
